@@ -1,0 +1,8 @@
+.background {
+    background:url(img/header_background.jpg);
+    height:500px;
+}
+
+.logo {
+    float:left;
+}
