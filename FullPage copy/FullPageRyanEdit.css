@@ -1,8 +1,202 @@
 .background {
     background:url(img/header_background.jpg);
     height:500px;
+
 }
 
 .logo {
-    float:left;
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 20px;
+    left: 20px;
 }
+
+
+
+
+.links {
+    position: absolute;
+    height:200px;
+    width: 500px;
+    top: 20px;
+    right: 80px;
+    font-size: 20px;
+    font-family: Arial;
+
+}
+
+.textA {
+    font-family:Arial;
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    height:150px;
+    width:900px;
+    top: 200px;
+    bottom: 150px;
+    padding-left:100px;
+    padding-right:200px;
+
+}
+
+.textB {
+    font-family:Arial;
+    color:white;
+    font-size:12px;
+    position:absolute;
+    top:300px;
+    padding-left:100px;
+    padding-right:200px;
+}
+
+.textC {
+    font-family: Arial;
+    color: white;
+    font-size: 14px;
+    background-color: green;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    position: relative;
+}
+
+
+.textD {
+    font-family:Arial;
+    font-weight: bold;
+    color:#000;
+    font-size:18px;
+    position:relative;
+
+}
+
+.pic1 {
+    float:left;
+    padding:30px;
+    font-family:Arial;
+    font-weight:bold;
+    font-size:16px;
+    text-align:left;
+    position:relative;
+
+}
+
+.pic2 {
+    float:left;
+    padding:30px;
+    font-family:Arial;
+    font-weight:bold;
+    font-size:16px;
+    text-align:left;
+    position:relative;
+}
+
+.pic3{
+    float:left;
+    padding:30px;
+    font-family:Arial;
+    font-weight:bold;
+    font-size:16px;
+    text-align:left;
+    position:relative;
+}
+
+.pic4 {
+    float:left;
+    padding:30px;
+    font-family:Arial;
+    font-weight:bold;
+    font-size:16px;
+    text-align:left;
+    position:relative;
+}
+
+.graph {
+
+}
+
+.subnews {
+    font-family: Arial;
+    color: white;
+    font-size: 14px;
+    background-color: lightseagreen;
+    text-align: left;
+    margin: 10px;
+    padding: 5px;
+    height:60px;
+
+    position: relative;
+
+}
+
+.yourEm {
+
+
+    font-family: Arial;
+    color: black;
+    font-size: 14px;
+    background-color: grey;
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    width:200px;
+    height:40px;
+    position: relative;
+    top:-70px;
+    left:600px;
+
+
+}
+
+.subButton{
+    font-family: Arial;
+    color: black;
+    font-size: 14px;
+    background-color: goldenrod;
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    width:200px;
+    height:40px;
+    position: relative;
+    top:-130px;
+    left:900px;
+}
+
+.serv{float:left;
+    padding:30px;
+    font-family:Arial;
+    font-size:18px;
+    font-color:grey;
+    font-weight:bold;
+    position:relative;
+
+
+
+
+}
+.map {
+    float:left;
+    padding:30px;
+}
+
+.contact{
+    float:left;
+    padding:30px;
+    font-family:Arial;
+    font-size:18px;
+    font-color:grey;
+    font-weight:bold;
+
+}
+.emUs{
+
+}
+
